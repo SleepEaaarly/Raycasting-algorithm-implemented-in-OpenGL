@@ -22,5 +22,5 @@ make run
 
 ### Result
 
-![result](D:\Learning\games202\homework\result.png)
+![result]([D:\Learning\games202\homework\result.png](https://github.com/SleepEaaarly/Raycasting-algorithm-implemented-in-OpenGL/blob/main/result.png))
 
