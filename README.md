@@ -22,5 +22,7 @@ make run
 
 ### Result
 
-![result](D:\Learning\games202\homework\result.png)
+![result image](result.png)
+
+
 
